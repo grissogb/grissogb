@@ -5,3 +5,27 @@ h1 {
 .container {
   font-family: 'Bebas Neue', cursive;
 }
+
+.mx-auto {
+  background-color: DarkRed;
+}
+
+#cherry {
+  background-color: #580801;
+}
+
+#strawberry {
+  background-color: #762223;
+}
+
+#grape {
+  background-color: #582c47;
+}
+
+#pineapple {
+  background-color: #c14c21;
+}
+
+.row {
+  background-color: Silver;
+}
